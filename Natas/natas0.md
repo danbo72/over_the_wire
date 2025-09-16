@@ -12,4 +12,7 @@ http://natas0.natas.labs.overthewire.org
 - Right click on the page
 - Click on View page source
 
-- 
+<img width="1317" height="386" alt="Screenshot 2025-09-16 112451" src="https://github.com/user-attachments/assets/2dea632e-71a3-462d-b24d-f0cfac734d44" />
+```
+<!-- 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq -->
+```
