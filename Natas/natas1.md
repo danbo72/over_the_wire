@@ -4,7 +4,7 @@
 ```
 http://natas1.natas.labs.overthewire.org
 ```
-- username: natas
+- username: natas1
 
  ## STEP 2: Inspection on the HTMl source code 
  viewing of the page source code has been disabled but can be viewed using Burpsuite
